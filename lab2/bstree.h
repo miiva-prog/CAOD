@@ -22,5 +22,5 @@ void replace(bstree *parent,bstree *node,bstree *child);
 bstree* delete(bstree *tree,bstree *node,bstree *parent);
 
 bstree* bstree_delete(bstree *tree,char *key);
-
+ 
 void bstree_delete_all(bstree *tree);

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include<time.h>
-#include<sys/time.h>
+#include <time.h>
+#include <sys/time.h>
 
 struct TreeNode
 {
@@ -91,7 +91,7 @@ int main()
     //         time_add = wtime();
     //     }
     // }
-    
+
     return 0;
 }
 
